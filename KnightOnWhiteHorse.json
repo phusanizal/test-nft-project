@@ -1,0 +1,16 @@
+{
+    "name": "Knight On White Horse Token 🏇",
+    "description": "Knight on white horse oil painting converted to NFT.",
+    "image": "https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/nftdata/spacebear_1.webp",
+    "external_url": "https://github.com/phusanizal",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "KnightOnWhiteHorse"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
